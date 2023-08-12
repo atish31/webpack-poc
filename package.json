@@ -1,0 +1,23 @@
+{
+  "name": "webpack-poc",
+  "version": "1.0.0",
+  "description": "webpack-poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack src/main.js dist/bundle.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atish31/webpack-poc.git"
+  },
+  "author": "atish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atish31/webpack-poc/issues"
+  },
+  "homepage": "https://github.com/atish31/webpack-poc#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
